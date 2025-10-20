@@ -4,7 +4,7 @@ const port = 3000;
 
 // Root route
 app.get('/', (req, res) => {
-  res.send('🚀 Hello from Node.js Demo App! CI/CD Pipeline is working fine.');
+  res.send('🚀 Hello from Node.js Demo App! CI/CD Pipeline is working fine..');
 });
 
 // Health check route
